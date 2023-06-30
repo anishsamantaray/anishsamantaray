@@ -12,10 +12,10 @@
 
  ![anishsamantaray](https://road-to-kaggle-grandmaster.vercel.app/api/simple/anishsamantaray)
   
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/discussion)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/discussion/light)
 
 
 <h3 align="left">Connect with me:</h3>
