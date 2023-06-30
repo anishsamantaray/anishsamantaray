@@ -22,7 +22,8 @@
 <p align="left">
 <a href="https://twitter.com/anishsamantara2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishsamantara2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anish-samantaray-4832851b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish samantaray" height="30" width="40" /></a>
-<a href="https://www.facebook.com/anish.samantaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anish samantaray" height="30" width="40" /></a>
+<a href="https://kaggle.com/anishsamantaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anishsamantaray" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anishsamantaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishsamantaray" height="30" width="40" /></a>
 <a href="https://www.instagram.com/samantarayanish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samantarayanish" height="30" width="40" /></a>
 </p>
 
