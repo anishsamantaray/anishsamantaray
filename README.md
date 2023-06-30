@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **anishsamantaray246@yahoo.in**
 ![anishsamantaray](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{anishsamantaray})
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anishsamantaray}/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anishsamantaray}/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anishsamantaray}/discussion)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anishsamantara2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishsamantara2" height="30" width="40" /></a>
