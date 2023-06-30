@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anish Samantaray</h1>
 <h3 align="center">Experimenting with code!</h3>
-
+<h3 align="center"> Kaggle Notebooks Expert </h3>
 
 - 🔭 I’m currently working on **Machine Learning and Data Science**
 
@@ -8,14 +8,14 @@
 - 📫 How to reach me **anishsamantaray246@yahoo.in**
 
 <br>
-<h3 align="center"> Kaggle Notebooks Expert </h3>
 
-  ![anishsamantaray](https://road-to-kaggle-grandmaster.vercel.app/api/simple/anishsamantaray)
+
+ ![anishsamantaray](https://road-to-kaggle-grandmaster.vercel.app/api/simple/anishsamantaray)
   
-                          ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/competition/light)
-                          ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/dataset/light)
-                          ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/notebook/light)
-                          ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/discussion/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/discussion/light)
 
 
 <h3 align="left">Connect with me:</h3>
