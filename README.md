@@ -10,10 +10,12 @@
 <br>
 
 <center>
+  
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/discussion/light)
+
 </center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
