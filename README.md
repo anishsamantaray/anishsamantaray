@@ -11,9 +11,9 @@
 
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anishsamantaray}/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anishsamantaray}/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anishsamantaray}/discussion/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anishsamantaray/discussion/light)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anishsamantara2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishsamantara2" height="30" width="40" /></a>
