@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Data Science**
 
-- 🔭 You can read my research work at  <a href=https://scholar.google.com/citations?user=DjzUICUAAAAJ&hl=en> **Google scholar** </a>
+- 🔭 You can read my research work at  <a href="https://scholar.google.com/citations?user=DjzUICUAAAAJ&hl=en"> **Google scholar** </a>
 - 
 - 📫 How to reach me **anishsamantaray246@yahoo.in**
 
