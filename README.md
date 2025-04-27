@@ -38,7 +38,7 @@
 
 ### 🌐 How to Reach Me
 - 📢 Email: <strong>anishsamantaray246@gmail.com</strong>
-- 💼 LinkedIn: [Anish Samantaray](https://www.linkedin.com/in/anishsamantaray/)
+- 💼 LinkedIn: [Anish Samantaray](www.linkedin.com/in/anish-samantaray)
 
 ---
 
