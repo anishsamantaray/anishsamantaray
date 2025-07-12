@@ -26,13 +26,13 @@
 ---
 
 ### 🛠️ Tech Stack
-- <strong>Languages:</strong> Python | Java  | HTML | CSS
+- <strong>Languages & Frameworks:</strong> Python | Java  | HTML | CSS | React.js
 - <strong>Backend:</strong> FastAPI | Java (Basic)
 - <strong>Cloud:</strong> AWS (EC2, Lambda, S3, SNS, DynamoDB) | GCP | Firebase
-- <strong>DevOps:</strong> Docker | Kubernetes | Jenkins | AWS CodePipeline
+- <strong>DevOps:</strong> Docker | Terraform | Ansible | AWS CodePipeline
 - <strong>Databases:</strong> MongoDB | DynamoDB | Firestore | Redis
-- <strong>Messaging/Streaming:</strong> Kafka
-- <strong>Other Tools:</strong> Postman | Git | Terraform
+- <strong>Messaging/Streaming:</strong> Kafka 
+- <strong>Other Tools:</strong> Postman | Git 
 - <strong>ML/AI:</strong> Pytorch | Tensorflow | Scikit-learn | OpenCV | NLP | Computer Vision
 ---
 
