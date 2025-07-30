@@ -28,10 +28,10 @@
 ### 🛠️ Tech Stack
 - <strong>Languages & Frameworks:</strong> Python | Java  | HTML | CSS | React.js
 - <strong>Backend:</strong> FastAPI | Java (Basic)
-- <strong>Cloud:</strong> AWS (EC2, Lambda, S3, SNS, DynamoDB) | GCP | Firebase
-- <strong>DevOps:</strong> Docker | Terraform | Ansible | AWS CodePipeline
-- <strong>Databases:</strong> MongoDB | DynamoDB | Firestore | Redis
-- <strong>Messaging/Streaming:</strong> Kafka 
+- <strong>Cloud:</strong> AWS - AWS Certified Cloud Practitioner
+- <strong>DevOps:</strong> Docker | Terraform | Github Actions
+- <strong>Databases:</strong> MongoDB | DynamoDB | Firestore 
+- <strong>Messaging/Streaming:</strong> AWS SQS
 - <strong>Other Tools:</strong> Postman | Git 
 - <strong>ML/AI:</strong> Pytorch | Tensorflow | Scikit-learn | OpenCV | NLP | Computer Vision
 ---
